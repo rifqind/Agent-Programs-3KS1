@@ -7,4 +7,3 @@ Tugas 3KS1 Artificial Intelligence
 <li>Wumpus World!</li>
 <ul></ul>
 
-<p>Deadline : Ahad, May 5th, 20.00</p>
